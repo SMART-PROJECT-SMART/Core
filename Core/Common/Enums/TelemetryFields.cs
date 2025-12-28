@@ -46,6 +46,8 @@ namespace Core.Common.Enums
 
         NearestSleeveId,
 
-        TailId
+        TailId,
+
+        UAVTypeValue
     }
 }
