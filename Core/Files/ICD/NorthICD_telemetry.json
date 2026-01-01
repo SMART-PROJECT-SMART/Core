@@ -187,5 +187,14 @@
     "maxValue": 65535.0,
     "startBitArrayIndex": 312,
     "bitLength": 16
+  },
+  {
+    "name": "UAVTypeValue",
+    "type": "Double",
+    "unit": "enum",
+    "minValue": 0.0,
+    "maxValue": 1.0,
+    "startBitArrayIndex": 328,
+    "bitLength": 1
   }
 ]
