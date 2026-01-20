@@ -48,6 +48,8 @@ namespace Core.Common.Enums
 
         TailId,
 
-        UAVTypeValue
+        UAVTypeValue,
+
+        PlatformType
     }
 }

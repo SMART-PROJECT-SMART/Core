@@ -196,5 +196,14 @@
     "maxValue": 1.0,
     "startBitArrayIndex": 328,
     "bitLength": 8
+  },
+  {
+    "name": "PlatformType",
+    "type": "Double",
+    "unit": "enum",
+    "minValue": 0.0,
+    "maxValue": 3.0,
+    "startBitArrayIndex": 336,
+    "bitLength": 8
   }
 ]
