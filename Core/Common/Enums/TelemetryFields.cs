@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
 namespace Core.Common.Enums
@@ -50,6 +50,8 @@ namespace Core.Common.Enums
 
         UAVTypeValue,
 
-        PlatformType
+        PlatformType,
+
+        MissionId
     }
 }

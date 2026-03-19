@@ -205,5 +205,14 @@
     "maxValue": 3.0,
     "startBitArrayIndex": 336,
     "bitLength": 8
+  },
+  {
+    "name": "MissionId",
+    "type": "Double",
+    "unit": "hash",
+    "minValue": 0.0,
+    "maxValue": 1.8446744073709552E+19,
+    "startBitArrayIndex": 344,
+    "bitLength": 64
   }
 ]
